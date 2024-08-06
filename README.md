@@ -16,8 +16,16 @@
 
 👉**Languages and Tools:**
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw0TINfgH8-fNbZvvP8Tuc5k&ust=1723020085986000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKDysKb834cDFQAAAAAdAAAAABAE)
+
 
 👉**Top Languages Used:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614)](https://github.com/azad12614/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&layout=compact)](https://github.com/azad12614/github-readme-stats)
+
+
+
+![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=azad12614&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=transparent#gh-dark-mode-only)
+
+👉**GitHub Extra Pins:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azad12614&repo=github-readme-stats)](https://github.com/azad12614/github-readme-stats)
