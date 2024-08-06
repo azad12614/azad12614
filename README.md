@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🚧Hi 👋, I'm Abdullah Al Azad (Working)🚧
 
-<!--
-**azad12614/azad12614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Student passionate about programming and web development, Pursuing a Degree of Bachelor Science in Computer Science and Engineering.**
 
-Here are some ideas to get you started:
+Info:
+- 🔭 I volunteer/mentor in the Competitive Programming Society of International Islamic University Chittagong.
+- 🎓 I’m currently in my final year.
+- 🌱 I prefer C++ for my Competitive Programming.
+  -- 🌱 I learned HTML, CSS, JS, and MERN STACK for web development.
+  -- 🌱 I am learning Python for my Machine Learning Project.
+- 👨‍💻 My Portfolio:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+![alt text](https://github.com/azad12614/Portfolio/blob/main/Gaming.png)
+
+Languages and Tools:
+![alt text](https://github.com/azad12614/Portfolio/blob/main/Gaming.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614)](https://github.com/azad12614/github-readme-stats)
