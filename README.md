@@ -17,11 +17,8 @@
 
 👉**Languages and Tools:**
 
-![c](https://github.com/user-attachments/assets/3aa3514b-019e-422e-bd8a-c19c637951a1)
-
-<img height=200 align="center" src="https://github.com/user-attachments/assets/3aa3514b-019e-422e-bd8a-c19c637951a1" />
-
-![c++](https://github.com/user-attachments/assets/3c887c96-38b2-479a-9286-ce8c56f084e4)
+<img height=100 align="center" src="https://github.com/user-attachments/assets/3aa3514b-019e-422e-bd8a-c19c637951a1" />
+<img height=100 align="center" src="https://github.com/user-attachments/assets/3c887c96-38b2-479a-9286-ce8c56f084e4" />
 
 👉**Top Used Languages:**
 
