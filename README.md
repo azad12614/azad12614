@@ -1,11 +1,11 @@
 ## 🚧Hi 👋, I'm Abdullah Al Azad (Working)🚧
 
-**A Student passionate about programming and web development, Pursuing a Degree of Bachelor Science in Computer Science and Engineering.**
+**A Student passionate about programming and web development, Pursuing a Degree of Bachelor of Science in Computer Science and Engineering.**
 
 👉**Info:**
-- 🔭 I volunteer/mentor in the Competitive Programming Society of International Islamic University Chittagong.
+- 🔭 I volunteer/mentor at the Competitive Programming Society of International Islamic University Chittagong.
 - 🎓 I’m currently in my final year.
-- 🌱 I prefer C++ for my Competitive Programming.
+- 🌱 I prefer C++ for my competitive programming.
   - - 🌱 I learned HTML, CSS, JS, and MERN STACK for web development.
   - - 🌱 I am learning Python for my Machine Learning Project.
 - 👨‍💻 My Portfolio:
