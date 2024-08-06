@@ -10,7 +10,7 @@
   - - 🌱 I am learning Python for my Machine Learning Project.
 - 👨‍💻 My Portfolio:
 
-👉**Connect with me:**
+<!--👉**Connect with me:**-->
 
 
 
