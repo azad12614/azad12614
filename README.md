@@ -6,8 +6,8 @@
 - 🔭 I volunteer/mentor at the Competitive Programming Society of International Islamic University Chittagong.
 - 🎓 I’m currently in my final year.
 - 🌱 I prefer C++ for my competitive programming.
-  - - 🌱 I learned HTML, CSS, JS, and MERN STACK for web development.
-  - - 🌱 I am learning Python for my Machine Learning Project.
+  - 🌱 I learned HTML, CSS, JS, and MERN STACK for web development.
+  - 🌱 I am learning Python for my Machine Learning Project.
 - 👨‍💻 My Portfolio:
 
 <!--👉**Connect with me:**-->
