@@ -1,4 +1,4 @@
-## 🚧 Hi 👋, I'm Abdullah Al Azad 🚧
+## Hi 👋, I'm Abdullah Al Azad
 
 **A Student passionate about programming and web development, Pursuing a Degree of Bachelor of Science in Computer Science and Engineering.**
 
