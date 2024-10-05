@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Abdullah Al Azad
 
-**Passionate programmer and aspiring web developer pursuing a Bachelor of Science in Computer Science and Engineering. Currently in my final year.**
+**Passionate programmer and aspiring web developer pursuing a Bachelor of Science in Computer Science and Engineering.**
 
 👉**Info:**
 - 🔭 I am a trainer and mentor at the Competitive Programming Society of International Islamic University Chittagong.
