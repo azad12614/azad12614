@@ -35,7 +35,7 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
 </p>
 
-👉**Languages and Tools:**
+<!-- 👉**Languages and Tools:**
 
 <img height=70 align="center" alt_text="C" src="https://github.com/user-attachments/assets/3aa3514b-019e-422e-bd8a-c19c637951a1" />
 <img height=70 align="center" alt_text="C++" src="https://github.com/user-attachments/assets/3c887c96-38b2-479a-9286-ce8c56f084e4" />
@@ -48,6 +48,7 @@
 <img height=70 align="center" alt_text="Node" src="https://github.com/user-attachments/assets/a78d70ab-c4d8-4e46-99d4-595f22cf2a3b" />
 <img height=70 align="center" alt_text="Python" src="https://github.com/user-attachments/assets/7b411a54-df86-4218-b2eb-abd55264a87c" />
 
+-->
 👉**Top Used Languages:**
 
 [![Top Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&layout=compact&theme=transparent)](https://github.com/azad12614/github-readme-stats)
