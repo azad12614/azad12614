@@ -1,9 +1,12 @@
+![MasterHead](https://drive.google.com/uc?export=view&id=1nZYUZzEtokY_i9A6ntxPLG54sE7gs1rE)
+
 <h1 align="center">Hi 👋, I'm Abdullah Al Azad</h1>
-<h3 align="center">Passionate programmer and aspiring web developer pursuing a Bachelor of Science in Computer Science and Engineering.</h3>
+<h2 align="center">Competitive Programmer<br/>Web devloper</h2>
+<h3 align="center">B.Sc. in Computer Science and Engineering<br/>Faculty of Science and Engineering<br/>Internatioal Islamic University Chittagong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azad12614&label=Profile%20views&color=0e75b6&style=flat" alt="azad12614" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azad12614" alt="azad12614" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1v60qZouYZM6dlCSGee7QKrWHH9a-0V0P">
 
 👉**Info:**
 - 🔭 I'm working as a **Teaching Assistant** at the **International Islamic University Chittagong**.
@@ -49,6 +52,9 @@
 <img height=70 align="center" alt_text="Python" src="https://github.com/user-attachments/assets/7b411a54-df86-4218-b2eb-abd55264a87c" />
 
 -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azad12614" alt="azad12614" /></a> </p>
+
 👉**Top Used Languages:**
 
 [![Top Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&layout=compact&theme=transparent)](https://github.com/azad12614/github-readme-stats)
@@ -56,4 +62,3 @@
 ![Azad's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=azad12614&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=transparent#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azad12614&" alt="azad12614" /></p>
-
