@@ -1,12 +1,14 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1nZYUZzEtokY_i9A6ntxPLG54sE7gs1rE)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Azad</h1>
-<h2 align="center">Competitive Programmer<br/>Web devloper</h2>
+<h2 align="center">Competitive Programmer <br/> Web Developer</h2>
 <h3 align="center">B.Sc. in Computer Science and Engineering<br/>Faculty of Science and Engineering<br/>Internatioal Islamic University Chittagong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azad12614&label=Profile%20views&color=0e75b6&style=flat" alt="azad12614" /> </p>
 
+<!--
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1v60qZouYZM6dlCSGee7QKrWHH9a-0V0P">
+-->
 
 👉**Info:**
 - 🔭 I'm working as a **Teaching Assistant** at the **International Islamic University Chittagong**.
