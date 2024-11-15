@@ -1,56 +1,38 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1nZYUZzEtokY_i9A6ntxPLG54sE7gs1rE)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Azad</h1>
-<h2 align="center">Competitive Programmer <br/> Web Developer</h2>
-<h3 align="center">B.Sc. in Computer Science and Engineering<br/>Faculty of Science and Engineering<br/>Internatioal Islamic University Chittagong</h3>
+<h3 align="center">Competitive Programmer <br/> Web Developer</h3>
+<h4 align="center">B.Sc. in Computer Science and Engineering<br>Faculty of Science and Engineering<br>Internatioal Islamic University Chittagong</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azad12614&label=Profile%20views&color=0e75b6&style=flat" alt="azad12614" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=azad12614&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!--
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1v60qZouYZM6dlCSGee7QKrWHH9a-0V0P">
--->
+# 💫 About Me:
+🔭 I'm working as a **Teaching Assistant** at the **International Islamic University Chittagong**.<br>
+🔭 I’m working as a **Trainer and Mentor** for the **Competitive Programming Society** at the **International Islamic University Chittagong**.<br>
+🎓 I’m currently in my final year.<br>
+🌱 I prefer C++ for my Competitive Programming.<br>
+🌱 I am learning HTML, CSS, JS, and MERN STACK for Web Development.<br>
+🌱 I am learning React Native for Cross-platform APP Development.<br>
+🌱 I am learning Python, Matplotlib, NumPy, Pandas, sci-kit-learn, and TensorFlow for my Machine Learning Project.<br>
+👨‍💻 My Portfolio: [Abdullah Al Azad](https://azad12614.onrender.com/)
 
-👉**Info:**
-- 🔭 I'm working as a **Teaching Assistant** at the **International Islamic University Chittagong**.
-- 🔭 I’m working as a **Trainer and Mentor** for the **Competitive Programming Society** at the **International Islamic University Chittagong**.
-- 🎓 I’m currently in my final year.
-- 🌱 I prefer C++ for my Competitive Programming.
-  * 🌱 I am learning HTML, CSS, JS, and MERN STACK for Web Development.
-  * 🌱 I am learning Python for my Machine Learning Project.
-- 👨‍💻 My Portfolio: [Abdullah Al Azad](https://azad12614.onrender.com/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin-12614/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=azad12614&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=azad12614&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/eadecbbb-3a35-41df-a939-b3dd4ee85ca6" alt="css3" width="70" height="70"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=azad12614&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- 👉**Languages and Tools:**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img height=70 align="center" alt_text="C" src="https://github.com/user-attachments/assets/3aa3514b-019e-422e-bd8a-c19c637951a1" />
-<img height=70 align="center" alt_text="C++" src="https://github.com/user-attachments/assets/3c887c96-38b2-479a-9286-ce8c56f084e4" />
-<img height=70 align="center" alt_text="HTML" src="https://github.com/user-attachments/assets/d6a86e62-f8bf-48d5-a0e3-9b0e3deafbd1" />
-<img height=70 align="center" alt_text="CSS" src="https://github.com/user-attachments/assets/8e831534-e7ca-4fbb-a07a-7312f2491d4c" />
-<img height=70 align="center" alt_text="JS" src="https://github.com/user-attachments/assets/4b6957fa-3842-4d77-8dc7-e085a8066b14" />
-<img height=70 align="center" alt_text="MongoDB" src="https://github.com/user-attachments/assets/94737655-f585-49d8-8ed9-aee058ba1f60" />
-<img height=70 align="center" alt_text="Express" src="https://github.com/user-attachments/assets/eadecbbb-3a35-41df-a939-b3dd4ee85ca6" />
-<img height=70 align="center" alt_text="React" src="https://github.com/user-attachments/assets/07bd5999-2590-434a-9862-e21c5d215104" />
-<img height=70 align="center" alt_text="Node" src="https://github.com/user-attachments/assets/a78d70ab-c4d8-4e46-99d4-595f22cf2a3b" />
-<img height=70 align="center" alt_text="Python" src="https://github.com/user-attachments/assets/7b411a54-df86-4218-b2eb-abd55264a87c" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=azad12614&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
--->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azad12614" alt="azad12614" /></a> </p>
-
-👉**Top Used Languages:**
-
-[![Top Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&layout=compact&theme=transparent)](https://github.com/azad12614/github-readme-stats)
-
-![Azad's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=azad12614&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=transparent#gh-dark-mode-only)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azad12614&" alt="azad12614" /></p>
