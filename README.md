@@ -14,13 +14,14 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m working as a **Teaching Assistant** at the **International Islamic University Chittagong**.<br>
-🔭 I’m working as a **Trainer and Mentor** for the **Competitive Programming Society** at the **International Islamic University Chittagong**.<br>
-🎓 I’m currently in my final year.<br>
-🌱 I prefer C++ for my Competitive Programming.<br>
-🌱 I’m learning HTML, CSS, JS, and MERN STACK for Web Development.<br>
-🌱 I’m learning React Native for Cross-platform APP Development.<br>
-🌱 I’m learning Python, Matplotlib, NumPy, Pandas, Sci-Kit-Learn, and TensorFlow for my Machine Learning Project.<br>
+🎓 I'm a **final-year student** passionate about *web development*.<br>
+👨‍💻 I build projects using *HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express.js, React, Node.js)*.<br>
+👨‍💻 I have experience with *C++* from my involvement in *competitive programming*.<br>
+🌱 I'm currently focused on expanding my front-end skills with *Next.js* and refining my MERN stack expertise.<br>
+🌱 I'm learning *React Native* for cross-platform mobile development.<br>
+🔭 I work as a **Teaching Assistant** at the International Islamic University Chittagong, assisting students with Data Structures.<br>
+🔭 I also serve as a **Trainer and Mentor** for the Competitive Programming Society at IIUC, guiding students in algorithm development and problem-solving.<br>
+🌱 I’m learning *Python, Matplotlib, NumPy, Pandas, Sci-Kit-Learn, and TensorFlow* for my *Machine Learning Project*.<br>
 👨‍💻 My Portfolio: [Abdullah Al Azad](https://azad12614.onrender.com/)
 
 ## 🌐 Socials:
