@@ -1,73 +1,82 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1nZYUZzEtokY_i9A6ntxPLG54sE7gs1rE)
 
-<h1 align="center">Hi 👋, I'm Abdullah Al Azad</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programmer | Teaching Assistant</h3>
-<h4 align="center">B.Sc. in Computer Science and Engineering<br>Faculty of Science and Engineering<br>International Islamic University Chittagong</h4>
+<div align="center">
+
+<h1>Hi 👋, I'm Abdullah Al Azad</h1>
+<h3>Full-Stack Developer | Competitive Programmer | Teaching Assistant</h3>
+<h4>B.Sc. in Computer Science and Engineering<br>Faculty of Science and Engineering<br>International Islamic University Chittagong</h4>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-azad-12614-jishan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://azad12614.onrender.com)
+[![Email](https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) 
 
 ---
 
-<div align="center">
-  
 #### 🌟 Visitors over time
 ![](https://komarev.com/ghpvc/?username=azad12614&abbreviated=true)
 
-</div>
+# 💫 About Me
 
-# 💫 About Me:
+<ul align="left">
+  <li>🎓 I'm a final-year CSE student passionate about full-stack web development and machine learning.</li>
+  <li>🔭 I’m currently working as a **Teaching Assistant** in *Data Structures* and serving as the **Bootcamp Coordinator** at **IIUC Competitive Programming Society (IIUCCPS)**.</li>
+  <li>👨‍🏫 Previously, I contributed as a **Trainer** and **Mentor** in competitive programming for 3+ semesters.</li>
+  <li>👨‍💻 I build projects using **HTML, CSS, JavaScript, C++, MERN stack**, and I’m exploring **Python**, **Machine Learning**, and **Next.js**.</li>
+  <li>🌱 Currently expanding my ML knowledge with **NumPy, Pandas, Scikit-learn, Matplotlib**, and **TensorFlow**.</li>
+  <li>🌍 Portfolio: [azad12614.onrender.com](https://azad12614.onrender.com)</li>
+</ul>
 
-🎓 I'm a final-year CSE student passionate about full-stack web development and machine learning.  
-🔭 I’m currently working as a **Teaching Assistant** in *Data Structures* and serving as the **Bootcamp Coordinator** at **IIUC Competitive Programming Society (IIUCCPS)**.  
-👨‍🏫 Previously, I contributed as a **Trainer** and **Mentor** in competitive programming for 3+ semesters.  
-👨‍💻 I build projects using **HTML, CSS, JavaScript, C++, MERN stack**, and I’m exploring **Python**, **Machine Learning**, and **Next.js**.  
-🌱 Currently expanding my ML knowledge with **NumPy, Pandas, Scikit-learn, Matplotlib**, and **TensorFlow**.  
-🌍 Portfolio: [azad12614.onrender.com](https://azad12614.onrender.com)
+---
 
-# 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-azad-12614-jishan/) 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
+*Languages & Frameworks*
 
-*Languages & Frameworks:*  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-*Databases & Tools:*  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Render](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+*Databases & Tools*
 
-*Styling & Deployment:*  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-*ML/DS Tools:*  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+*Styling & Deployment*
 
-*Other Tools:*  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
+*ML/DS Tools*
 
-# 📊 GitHub Stats:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-563BFF?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+*Other Tools*
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=azad12614&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azad12614&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&theme=dark&hide_border=false&layout=compact)
@@ -80,3 +89,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=azad12614&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
