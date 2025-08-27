@@ -19,10 +19,10 @@
 
 <ul align="left">
   <li>🎓 I'm a recent CSE graduate passionate about full-stack web development and machine learning.</li>
-  <li>🔭 I’m currently working as a **Teaching Assistant** in *Data Structures* and serving as the **Bootcamp Coordinator** at **IIUC Competitive Programming Society (IIUCCPS)**.</li>
-  <li>👨‍🏫 Previously, I contributed as a **Trainer** and **Mentor** in competitive programming for 3+ semesters.</li>
-  <li>👨‍💻 I build projects using **HTML, CSS, JavaScript, C++, MERN stack**, and I’m exploring **Python**, **Machine Learning**, and **Next.js**.</li>
-  <li>🌱 Currently expanding my ML knowledge with **NumPy, Pandas, Scikit-learn, Matplotlib**, and **TensorFlow**.</li>
+  <li>🔭 I contributed as a <b>Teaching Assistant</b> in <l>Data Structures</l>.</li>
+  <li>👨‍🏫 Also, I contributed as a <b>Bootcamp Coordinator, Trainer and Mentor</b> in competitive programming for 3+ semesters.</li>
+  <li>👨‍💻 I build projects using <b>C++, HTML, CSS, JavaScript, MERN stack</b>, and I’m exploring <b>Python, Machine Learning, TypeScript, and Next.js</b>.</li>
+  <li>🌱 Currently expanding my ML knowledge with <b>NumPy, Pandas, Scikit-learn, Matplotlib, and TensorFlow</b>.</li>
   <li>🌍 Portfolio: [azad12614.onrender.com](https://azad12614.onrender.com)</li>
 </ul>
 
