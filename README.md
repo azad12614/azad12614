@@ -18,7 +18,7 @@
 # 💫 About Me
 
 <ul align="left">
-  <li>🎓 I'm a recent CSE graduate passionate about full-stack web development and machine learning.</li>
+  <li>🎓 I'm a final-year CSE student passionate about full-stack web development and machine learning.</li>
   <li>🔭 I contributed as a <b>Teaching Assistant</b> in <l>Data Structures</l>.</li>
   <li>👨‍🏫 Also, I contributed as a <b>Bootcamp Coordinator, Trainer and Mentor</b> in competitive programming for 3+ semesters.</li>
   <li>👨‍💻 I build projects using <b>C++, HTML, CSS, JavaScript, MERN stack</b>, and I’m exploring <b>Python, Machine Learning, TypeScript, and Next.js</b>.</li>
