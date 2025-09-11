@@ -2,9 +2,19 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Abdullah Al Azad</h1>
-<h3>Full-Stack Developer | Competitive Programmer | Teaching Assistant</h3>
+<h1>👋 Hi, I'm Abdullah Al Azad</h1>
+<h3>💻 Full-Stack Developer | Competitive Programmer | MERN & Next.js Specialist</h3>
 <h4>B.Sc. in Computer Science and Engineering<br>Faculty of Science and Engineering<br>International Islamic University Chittagong</h4>
+
+# 💫 About Me
+
+<p align="left">
+I’m a developer passionate about building scalable, user-focused web applications and solving real-world problems through code. With hands-on experience in the MERN stack, Next.js, and TypeScript, I’ve developed and deployed 10+ full-stack projects — ranging from academic portals and productivity apps to competitive programming training platforms.
+</p>
+
+---
+
+# 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-azad-12614-jishan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=link&logoColor=white)](https://azad12614.onrender.com)
@@ -12,19 +22,14 @@
 
 ---
 
-#### 🌟 Visitors over time
-![](https://komarev.com/ghpvc/?username=azad12614&abbreviated=true)
+# 🏆 Experience
 
-# 💫 About Me
-
-<ul align="left">
-  <li>🎓 I'm a final-year CSE student passionate about full-stack web development and machine learning.</li>
-  <li>🔭 I contributed as a <b>Teaching Assistant</b> in <l>Data Structures</l>.</li>
-  <li>👨‍🏫 Also, I contributed as a <b>Bootcamp Coordinator, Trainer and Mentor</b> in competitive programming for 3+ semesters.</li>
-  <li>👨‍💻 I build projects using <b>C++, HTML, CSS, JavaScript, MERN stack</b>, and I’m exploring <b>Python, Machine Learning, TypeScript, and Next.js</b>.</li>
-  <li>🌱 Currently expanding my ML knowledge with <b>NumPy, Pandas, Scikit-learn, Matplotlib, and TensorFlow</b>.</li>
-  <li>🌍 Portfolio: [azad12614.onrender.com](https://azad12614.onrender.com)</li>
-</ul>
+<div align="left">
+🧑‍🏫 <b>Teaching Assistant (IIUC)</b> — Guided 200+ students in data structures & algorithms, boosting performance by 15%.<br/>
+👨‍💻 <b>Bootcamp Coordinator (IIUCCPS)</b> — Organized training sessions for 100+ participants, scaling reach by 50%.<br/>
+👨‍💻 <b>Bootcamp Mentor (IIUCCPS)</b> — Provided guidance to beginner and intermediate CP enthusiasts.<br/>
+👨‍💻 <b>Bootcamp Trainer (IIUCCPS)</b> — Conducted problem-solving sessions on algorithms, data structures, and Codeforces problems.<br/>
+</div>
 
 ---
 
