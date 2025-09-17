@@ -85,9 +85,6 @@ I’m a developer passionate about building scalable, user-focused web applicati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azad12614&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azad12614&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
