@@ -91,7 +91,4 @@ I’m a developer passionate about building scalable, user-focused web applicati
 ### ✍️ Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azad12614&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 </div>
