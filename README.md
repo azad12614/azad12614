@@ -100,6 +100,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 | Jan 2025 – Aug 2025 | Bootcamp Co-ordinator | IIUCCPS |
 | Jul 2023 – Jan 2025 | Bootcamp Mentor | IIUCCPS |
 | Jul 2023 – Dec 2023 | Bootcamp Trainer | IIUCCPS |
+| 2024 – Present | Open Source Contributor | freeCodeCamp |
 
 ---
 
@@ -110,7 +111,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 | [GhorBazar](https://github.com/azad12614/GhorBazar) | TanStack Start, Hono, oRPC, Bun, Drizzle, Better Auth, PostgreSQL, TS | Full-stack building materials marketplace for Bangladesh |
 | [CF Ladder](https://github.com/azad12614/Ladder) | MERN, JWT, Axios | Codeforces training platform with admin controls and progress tracking |
 | [Cloud Campus](https://github.com/azad12614/Cloud_Campus) | MERN, REST APIs | Academic portal for IIUC CSE department |
-| [InvoiceMaster](https://github.com/azad12614/InvoiceMaster) | Next.js, TypeScript, Prisma, Mailtrap | Invoicing platform with real-time tracking and automated email delivery |
+| [Task Tracker](https://github.com/azad12614/TaskTracker) | MERN, JWT Auth | Task management app with CRUD features and authentication |
 | [Portfolio](https://github.com/azad12614/Portfolio_2.0) | React, Vite, CSS | This portfolio — showcasing projects, skills, and journey |
 
 ---
@@ -136,6 +137,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 - **140+ contests** participated (onsite & online)
 - ICPC Preliminary 2024 — Ranked **288th** (Team: IIUC_ZeroPlan)
 - Inter University Programming Contest Jul 2024 — Ranked **20th** (Team: IIUC_ZeroPlan)
+- NCPC Preliminary 2024 — Ranked **241st** (Team: IIUC_ZeroPlan)
 
 ---
 
@@ -160,6 +162,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 - 🏆 **ICPC Certificate of Achievement** — 2022, 2023, 2024
 - 🚀 **NASA Space Apps Challenge** — Participation Certificate (Sep 2024)
 - 📜 **IIUCCPS Trainer Certificate** — Feb 2024
+- 📜 **Ostad Courses Certificate** — May 2025
 
 ---
 
