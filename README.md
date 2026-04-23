@@ -55,6 +55,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-ffffff?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
@@ -64,7 +65,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-FF6B00?style=flat-square&logo=hono&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-F9F1E1?style=flat-square&logo=bun&logoColor=black)
-![oRPC](https://img.shields.io/badge/oRPC-ffffff?style=flat-square)
+![RPC](https://img.shields.io/badge/RPC-ffffff?style=flat-square)
 
 **Database & ORM**
 
@@ -109,7 +110,7 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 
 | Project | Stack | Description |
 |---|---|---|
-| [GhorBazar](https://github.com/azad12614/GhorBazar) | TanStack Start, Hono, oRPC, Bun, Drizzle, Better Auth, PostgreSQL, TS | Full-stack building materials marketplace for Bangladesh |
+| [GhorBazar](https://github.com/azad12614/GhorBazar) | TanStack Start, Hono, RPC, Bun, Drizzle, Better Auth, PostgreSQL, Docker, TS | Full-stack building materials marketplace for Bangladesh |
 | [CF Ladder](https://github.com/azad12614/Ladder) | MERN, JWT, Axios | Codeforces training platform with admin controls and progress tracking |
 | [Cloud Campus](https://github.com/azad12614/Cloud_Campus) | MERN, REST APIs | Academic portal for IIUC CSE department |
 | [Task Tracker](https://github.com/azad12614/TaskTracker) | MERN, JWT Auth | Task management app with CRUD features and authentication |
