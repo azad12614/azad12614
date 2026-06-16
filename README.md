@@ -29,14 +29,16 @@
 
 I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. in Computer Science and Engineering from **International Islamic University Chittagong (Dec 2025)**. I specialize in building scalable, secure, and user-focused web applications with modern TypeScript-based stacks.
 
-My B.Sc. thesis focused on a **Hybrid CNN-BiGRU Approach for Bangla Audio Deepfake Detection**, bridging software engineering with deep learning.
-
-Beyond development, I'm a competitive programmer with **1400+ problems solved** across Codeforces, CodeChef, LeetCode, and AtCoder — and I've contributed to open-source projects including **freeCodeCamp**.
-
-- 🔭 Currently working on **[GhorBazar](https://github.com/azad12614/GhorBazar)** — a full-stack building materials marketplace for Bangladesh
 - 💼 **Assistant Web Secretary (Backend)** at IIUCCPS (Nov 2025 – Present)
-- 🏆 **Best Mentor Award** — IIUCCPS Bootcamp (Feb 2024, Jul 2025)
 - 📍 Chittagong, Bangladesh
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 **Bigcapital** — Open source contribution
+- 🧑‍💻 **freeCodeCamp** — Open source contributor
+- 🚀 **SAAS Product** — Building
 
 ---
 
@@ -102,7 +104,6 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 | Jan 2025 – Aug 2025 | Bootcamp Co-ordinator | IIUCCPS |
 | Jul 2023 – Jan 2025 | Bootcamp Mentor | IIUCCPS |
 | Jul 2023 – Dec 2023 | Bootcamp Trainer | IIUCCPS |
-| 2024 – Present | Open Source Contributor | freeCodeCamp |
 
 ---
 
@@ -114,7 +115,8 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
 | [CF Ladder](https://github.com/azad12614/Ladder) | MERN, JWT, Axios | Codeforces training platform with admin controls and progress tracking |
 | [Cloud Campus](https://github.com/azad12614/Cloud_Campus) | MERN, REST APIs | Academic portal for IIUC CSE department |
 | [Task Tracker](https://github.com/azad12614/TaskTracker) | MERN, JWT Auth | Task management app with CRUD features and authentication |
-| [Portfolio](https://github.com/azad12614/Portfolio_2.0) | React, Vite, CSS | This portfolio — showcasing projects, skills, and journey |
+| [Portfolio](https://github.com/azad12614/Portfolio_2.0) | React, Vite, CSS | Personal portfolio showcasing skills, projects, and journey |
+| [AI Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS, Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
 
 ---
 
@@ -162,9 +164,8 @@ Beyond development, I'm a competitive programmer with **1400+ problems solved** 
   - Thesis: *A Hybrid CNN-BiGRU Approach for Bangla Audio Deepfake Detection*
 - 🏅 **Best Mentor Award** — IIUCCPS Bootcamp (Feb 2024, Jul 2025)
 - 🏆 **ICPC Certificate of Achievement** — 2022, 2023, 2024
-- 🚀 **NASA Space Apps Challenge** — Participation Certificate (Sep 2024)
 - 📜 **IIUCCPS Trainer Certificate** — Feb 2024
-- 📜 **Ostad Courses Certificate** — May 2025
+- 🖥️ **Web Dev Intern Certificate** — UIAS & UAN, Feb 2026
 
 ---
 
