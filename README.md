@@ -12,6 +12,9 @@
   <a href="https://azad12614.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/azad12614/azad12614/blob/HEAD/Abdullah_Al_Azad.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/abdullah-al-azad-12614-jishan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,18 +30,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. in Computer Science and Engineering from **International Islamic University Chittagong (Dec 2025)**. I specialize in building scalable, secure, and user-focused web applications with modern TypeScript-based stacks.
+I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in Computer Science and Engineering from **International Islamic University Chittagong (Dec 2025)**, now pursuing a part-time **M.Eng in CSE at CUET (2026–2028)**. I specialize in building scalable, secure, and user-focused web applications with modern TypeScript-based stacks.
 
-- 💼 **Assistant Web Secretary (Backend)** at IIUCCPS (Nov 2025 – Present)
-- 📍 Chittagong, Bangladesh
+<p align="center">
+  💼 <strong>Software Engineer</strong> at mtacademy.au (Aug 2026 – Present)<br>
+  📍 Chattogram, Bangladesh
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 **Bigcapital** — Open source contribution
-- 🧑‍💻 **freeCodeCamp** — Open source contributor
-- 🚀 **SAAS Product** — Building
+<p align="center">
+  🚀 <strong>mtacademy.au</strong>: production SaaS platform, full-stack engineering<br>
+  🧑‍💻 <strong>freeCodeCamp</strong>: open-source contributor
+</p>
 
 ---
 
@@ -50,14 +56,17 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-ffffff?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
@@ -67,6 +76,7 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-FF6B00?style=flat-square&logo=hono&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-F9F1E1?style=flat-square&logo=bun&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![RPC](https://img.shields.io/badge/RPC-ffffff?style=flat-square)
 
 **Database & ORM**
@@ -81,7 +91,6 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
 ![Better Auth](https://img.shields.io/badge/Better_Auth-ffffff?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B4?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools & DevOps**
 
@@ -91,31 +100,35 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-4A4A4A?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-| Period | Role | Organization |
-|---|---|---|
-| Nov 2025 – Present | Assistant Web Secretary (Backend) | IIUCCPS |
-| Oct 2025 – Feb 2026 | Web Developer Intern | UIAS (Remote) |
-| Jul 2024 – Aug 2025 | Teaching Assistant — Data Structures | IIUC |
-| Jan 2025 – Aug 2025 | Bootcamp Co-ordinator | IIUCCPS |
-| Jul 2023 – Jan 2025 | Bootcamp Mentor | IIUCCPS |
-| Jul 2023 – Dec 2023 | Bootcamp Trainer | IIUCCPS |
+| Period              | Role                                 | Organization  |
+| ------------------- | ------------------------------------ | ------------- |
+| Aug 2026 – Present  | Software Engineer                    | mtacademy.au  |
+| Jan 2026 – Jul 2026 | Trainee (Batch MB52)                 | mentorbhai    |
+| Nov 2025 – Jul 2026 | Assistant Web Secretary (Backend)    | IIUCCPS       |
+| Oct 2025 – Feb 2026 | Web Developer Intern                 | UIAS (Remote) |
+| Jul 2024 – Aug 2025 | Teaching Assistant — Data Structures | IIUC          |
+| Jan 2025 – Aug 2025 | Bootcamp Co-ordinator                | IIUCCPS       |
+| Jul 2023 – Dec 2024 | Bootcamp Mentor                      | IIUCCPS       |
+| Jul 2023 – Dec 2023 | Bootcamp Trainer                     | IIUCCPS       |
+| 2024 – Present      | Open Source Contributor              | freeCodeCamp  |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [GhorBazar](https://github.com/azad12614/GhorBazar) | TanStack Start, Hono, RPC, Bun, Drizzle, Better Auth, PostgreSQL, Docker, TS | Full-stack building materials marketplace for Bangladesh |
-| [CF Ladder](https://github.com/azad12614/Ladder) | MERN, JWT, Axios | Codeforces training platform with admin controls and progress tracking |
-| [Cloud Campus](https://github.com/azad12614/Cloud_Campus) | MERN, REST APIs | Academic portal for IIUC CSE department |
-| [Task Tracker](https://github.com/azad12614/TaskTracker) | MERN, JWT Auth | Task management app with CRUD features and authentication |
-| [Portfolio](https://github.com/azad12614/Portfolio_2.0) | React, Vite, CSS | Personal portfolio showcasing skills, projects, and journey |
+| Project                                                            | Stack                                                                               | Description                                                                                                                   |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [GhorBazar](https://github.com/azad12614/GhorBazar)                | TanStack Start, Hono, RPC, Bun, Drizzle, Better Auth, PostgreSQL, Docker, TS        | Full-stack building materials marketplace for Bangladesh                                                                      |
+| [CF Ladder](https://github.com/azad12614/Ladder)                   | MERN, JWT, Axios                                                                    | Codeforces training platform with admin controls and progress tracking                                                        |
+| [Cloud Campus](https://github.com/azad12614/Cloud_Campus)          | MERN, REST APIs                                                                     | Academic portal for IIUC CSE department                                                                                       |
+| [Task Tracker](https://github.com/azad12614/TaskTracker)           | MERN, JWT Auth                                                                      | Task management app with CRUD features and authentication                                                                     |
+| [Portfolio](https://github.com/azad12614/Portfolio_2.0)            | React, Vite, Tailwind CSS, DaisyUI                                                  | Personal portfolio showcasing skills, projects, and journey                                                                   |
 | [AI Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS, Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
 
 ---
@@ -130,26 +143,32 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
     <img src="https://img.shields.io/badge/CodeChef-3★%201610%20(max%201625)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/azad12614/">
-    <img src="https://img.shields.io/badge/LeetCode-Top%2027%25%20%7C%201573-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Top%2028.6%25%20%7C%201573-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://atcoder.jp/users/azad12614">
     <img src="https://img.shields.io/badge/AtCoder-316-1F1F1F?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
 </p>
 
-- **1400+ problems** solved across all platforms
-- **140+ contests** participated (onsite & online)
-- ICPC Preliminary 2024 — Ranked **288th** (Team: IIUC_ZeroPlan)
-- Inter University Programming Contest Jul 2024 — Ranked **20th** (Team: IIUC_ZeroPlan)
-- NCPC Preliminary 2024 — Ranked **241st** (Team: IIUC_ZeroPlan)
+<p align="center">
+  <strong>1400+ problems</strong> solved across all platforms<br>
+  <strong>140+ contests</strong> participated (onsite &amp; online)
+</p>
+
+| Period | Contest | Rank | Team |
+|---|---|---|---|
+| Nov 2024 | Inter University Programming Contest (CUSS) | **20th** | IIUC_ZeroPlan |
+| Nov 2024 | ICPC Preliminary Contest 2024 | **288th** | IIUC_ZeroPlan |
+| Feb 2024 | NCPC Preliminary Contest | **241st** | IIUC_Groot |
+| Oct 2023 | ICPC Preliminary Contest 2023 | **191st**, Honorable Mention | IIUC_Synthroid |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azad12614&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azad12614&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azad12614&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azad12614&theme=tokyonight" alt="Top languages by commit" height="160" />
 </p>
 
 <p align="center">
@@ -160,12 +179,15 @@ I'm a **Full-Stack Developer** from Chittagong, Bangladesh — graduated B.Sc. i
 
 ## 🎓 Education & Certifications
 
-- 🎓 **B.Sc. CSE** — International Islamic University Chittagong (Graduated Dec 2025)
-  - Thesis: *A Hybrid CNN-BiGRU Approach for Bangla Audio Deepfake Detection*
-- 🏅 **Best Mentor Award** — IIUCCPS Bootcamp (Feb 2024, Jul 2025)
-- 🏆 **ICPC Certificate of Achievement** — 2022, 2023, 2024
-- 📜 **IIUCCPS Trainer Certificate** — Feb 2024
-- 🖥️ **Web Dev Intern Certificate** — UIAS & UAN, Feb 2026
+| Period | Title | Organization |
+|---|---|---|
+| Jul 2026 – Jul 2028 | 🎓 **M.Eng, Computer Science and Engineering** (part-time) | Chittagong University of Engineering & Technology (CUET) |
+| Aug 2021 – Dec 2025 | 🎓 **B.Sc. CSE**<br>Thesis: _A Hybrid CNN-BiGRU Approach for Bangla Audio Deepfake Detection_ | International Islamic University Chittagong (IIUC) |
+| Feb 2024, Jul 2025 | 🏅 **Best Mentor Award** | IIUCCPS Bootcamp |
+| 2021, 2022, 2023, 2024 | 🏆 **ICPC Certificate of Achievement** | ICPC |
+| Feb 2024 | 📜 **IIUCCPS Trainer Certificate** | IIUCCPS |
+| Feb 2026 | 🖥️ **Web Dev Intern Certificate** | UIAS & UAN |
+| Sep 2024 | 🛰️ **NASA Space Apps Challenge** (participation certificate) | NASA |
 
 ---
 
