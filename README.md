@@ -33,7 +33,7 @@
 I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in Computer Science and Engineering from **International Islamic University Chittagong (Dec 2025)**, now pursuing a part-time **M.Eng in CSE at CUET (2026–2028)**. I specialize in building scalable, secure, and user-focused web applications with modern TypeScript-based stacks.
 
 <p align="center">
-  💼 <strong>Software Engineer</strong> at mtacademy.au (Aug 2026 – Present)<br>
+  💼 <strong>Software Engineer Intern</strong> at mtacademy.au (Aug 2026 – Present)<br>
   📍 Chattogram, Bangladesh
 </p>
 
@@ -108,7 +108,7 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 
 | Period              | Role                                 | Organization  |
 | ------------------- | ------------------------------------ | ------------- |
-| Aug 2026 – Present  | Software Engineer                    | mtacademy.au  |
+| Aug 2026 – Present  | Software Engineer Intern             | mtacademy.au  |
 | Jan 2026 – Jul 2026 | Trainee (Batch MB52)                 | mentorbhai    |
 | Nov 2025 – Jul 2026 | Assistant Web Secretary (Backend)    | IIUCCPS       |
 | Oct 2025 – Feb 2026 | Web Developer Intern                 | UIAS (Remote) |
