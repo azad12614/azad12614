@@ -33,7 +33,7 @@
 I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in Computer Science and Engineering from **International Islamic University Chittagong (Dec 2025)**, now pursuing a part-time **M.Eng in CSE at CUET (2026–2028)**. I specialize in building scalable, secure, and user-focused web applications with modern TypeScript-based stacks.
 
 <p align="center">
-  💼 <strong>Software Engineer Intern</strong> at mtacademy.au (Aug 2026 – Present)<br>
+  💼 <strong>Software Engineer (Contract)</strong>, client product mtacademy.au (Aug 2026 – Present)<br>
   📍 Chattogram, Bangladesh
 </p>
 
@@ -42,7 +42,7 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 ## 🎯 Current Focus
 
 <p align="center">
-  🚀 <strong>mtacademy.au</strong>: production SaaS platform, full-stack engineering<br>
+  🚀 <strong>mtacademy.au</strong> (client product): production SaaS platform, full-stack engineering<br>
   🧑‍💻 <strong>freeCodeCamp</strong>: open-source contributor
 </p>
 
@@ -78,12 +78,15 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 ![Bun](https://img.shields.io/badge/Bun-F9F1E1?style=flat-square&logo=bun&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![RPC](https://img.shields.io/badge/RPC-ffffff?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 **Database & ORM**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Auth & Validation**
@@ -97,9 +100,9 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQS LocalStack](https://img.shields.io/badge/SQS_LocalStack-FF4F8B?style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-4A4A4A?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
@@ -108,11 +111,10 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 
 | Period              | Role                                 | Organization  |
 | ------------------- | ------------------------------------ | ------------- |
-| Aug 2026 – Present  | Software Engineer Intern             | mtacademy.au  |
-| Jan 2026 – Jul 2026 | Trainee (Batch MB52)                 | mentorbhai    |
+| Aug 2026 – Present  | Software Engineer (Contract)         | Independent (client: mtacademy.au) |
 | Nov 2025 – Jul 2026 | Assistant Web Secretary (Backend)    | IIUCCPS       |
 | Oct 2025 – Feb 2026 | Web Developer Intern                 | UIAS (Remote) |
-| Jul 2024 – Aug 2025 | Teaching Assistant — Data Structures | IIUC          |
+| Jul 2024 – Aug 2025 | Teaching Assistant, Data Structures | IIUC          |
 | Jan 2025 – Aug 2025 | Bootcamp Co-ordinator                | IIUCCPS       |
 | Jul 2023 – Dec 2024 | Bootcamp Mentor                      | IIUCCPS       |
 | Jul 2023 – Dec 2023 | Bootcamp Trainer                     | IIUCCPS       |
@@ -128,8 +130,8 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 | [CF Ladder](https://github.com/azad12614/Ladder)                   | MERN, JWT, Axios                                                                    | Codeforces training platform with admin controls and progress tracking                                                        |
 | [Cloud Campus](https://github.com/azad12614/Cloud_Campus)          | MERN, REST APIs                                                                     | Academic portal for IIUC CSE department                                                                                       |
 | [Task Tracker](https://github.com/azad12614/TaskTracker)           | MERN, JWT Auth                                                                      | Task management app with CRUD features and authentication                                                                     |
-| [Portfolio](https://github.com/azad12614/Portfolio_2.0)            | React, Vite, Tailwind CSS, DaisyUI                                                  | Personal portfolio showcasing skills, projects, and journey                                                                   |
-| [AI Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS, Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
+| [Portfolio](https://github.com/azad12614/Portfolio_2.0)            | React, Vite, CSS                                                                    | Personal portfolio showcasing skills, projects, and journey                                                                   |
+| [AI Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS (LocalStack), Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
 
 ---
 
@@ -182,6 +184,7 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 | Period | Title | Organization |
 |---|---|---|
 | Jul 2026 – Jul 2028 | 🎓 **M.Eng, Computer Science and Engineering** (part-time) | Chittagong University of Engineering & Technology (CUET) |
+| Nov 2025 – Jul 2026 | 🎓 **Full-Stack Engineering Training** (Batch MB52, part-time) | MentorBhai |
 | Aug 2021 – Dec 2025 | 🎓 **B.Sc. CSE**<br>Thesis: _A Hybrid CNN-BiGRU Approach for Bangla Audio Deepfake Detection_ | International Islamic University Chittagong (IIUC) |
 | Feb 2024, Jul 2025 | 🏅 **Best Mentor Award** | IIUCCPS Bootcamp |
 | 2021, 2022, 2023, 2024 | 🏆 **ICPC Certificate of Achievement** | ICPC |
