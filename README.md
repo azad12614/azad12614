@@ -95,6 +95,12 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 ![JWT](https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B4?style=flat-square)
 
+**Testing & QA**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -103,7 +109,6 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 ![SQS LocalStack](https://img.shields.io/badge/SQS_LocalStack-FF4F8B?style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
@@ -131,7 +136,8 @@ I'm a **Full-Stack Developer** from Chattogram, Bangladesh, graduated B.Sc. in C
 | [Cloud Campus](https://github.com/azad12614/Cloud_Campus)          | MERN, REST APIs                                                                     | Academic portal for IIUC CSE department                                                                                       |
 | [Task Tracker](https://github.com/azad12614/TaskTracker)           | MERN, JWT Auth                                                                      | Task management app with CRUD features and authentication                                                                     |
 | [Portfolio](https://github.com/azad12614/Portfolio_2.0)            | React, Vite, CSS                                                                    | Personal portfolio showcasing skills, projects, and journey                                                                   |
-| [AI Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS (LocalStack), Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
+| [Ticket Pipeline](https://github.com/azad12614/Ticket_Pipeline) | Node.js, TypeScript, Express 5, PostgreSQL, SQS (LocalStack), Portkey AI, Socket.io, Zod, Docker | Async AI-powered support ticket pipeline with 2-phase AI (triage + draft), queue-based worker, and real-time Socket.io events |
+| [MTAcademy](https://mtacademy.au/) | Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, Playwright, Stripe | Client product: production SaaS platform for corporate training sales (private repository) |
 
 ---
 
